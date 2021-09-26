@@ -1,5 +1,5 @@
 <h1 align="center">🌱 Rizq.Earth app</h1>
-<h3 align="center">Understand and reduce your carbon footprint</h3>
+<h3 align="center">Conduct More Customer In A Better Way</h3>
 
 <br />
 

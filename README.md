@@ -22,7 +22,7 @@
 
 <br />
 
-![screenshots](https://github.com/NotMyFaultEarth/nmf-app/blob/main/app-preview.png)
+![screenshots](https://github.com/Rizq-Solutions/rizq_invo_rn/blob/rizqbazaar/Screenshot%202021-09-26%20at%206.19.31%20PM.png)
 
 Repository for the [Rizq.Invo](https://github.com/Rizq-Solutions/rizq_invo_rn/) React Native application, built with Expo, Redux Toolkit and Typescript.
 Design can be found on [Figma](https://github.com/Rizq-Solutions/rizq_invo_rn/).

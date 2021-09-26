@@ -1,4 +1,4 @@
-<h1 align="center">🌱 Rizq.Earth app</h1>
+<h1 align="center">Rizq Invoicing xSaaS</h1>
 <h3 align="center">Conduct More Customer In A Better Way</h3>
 
 <br />

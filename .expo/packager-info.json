@@ -4,5 +4,7 @@
   "packagerPort": 19000,
   "expoServerNgrokUrl": "https://vk-car.gispatialtech.rizq-invo-rn.exp.direct",
   "packagerNgrokUrl": "https://packager.vk-car.gispatialtech.rizq-invo-rn.exp.direct",
-  "ngrokPid": 50890
+  "ngrokPid": 59846,
+  "packagerPid": null,
+  "webpackServerPort": null
 }

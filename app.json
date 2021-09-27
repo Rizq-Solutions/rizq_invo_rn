@@ -22,14 +22,14 @@
     ],
     "ios": {
       "icon": "./assets/images/ios.icon.png",
-      "bundleIdentifier": "nmf.earth",
+      "bundleIdentifier": "rizq.invoice",
       "supportsTablet": true,
       "buildNumber": "31"
     },
     "android": {
       "icon": "./assets/images/android.icon.png",
       "useNextNotificationsApi": true,
-      "package": "nmf.earth",
+      "package": "rizq.invoice",
       "versionCode": 31
     },
     "userInterfaceStyle": "automatic",
@@ -38,8 +38,8 @@
         {
           "file": "sentry-expo/upload-sourcemaps",
           "config": {
-            "organization": "nmf",
-            "project": "nmf-earth",
+            "organization": "rizqinvo",
+            "project": "rizq.invoice",
             "authToken": null
           }
         }
